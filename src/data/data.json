@@ -1,0 +1,318 @@
+{
+  "Header": {
+    "title": "Get your Secretary now!"
+  },
+  "About": {
+    "paragraph": "Hiring a Secretary can help you manage your tasks so that you can focus on other important tasks. For example, you need to prepare for a meeting in another city and need to make travel arrangements in addition to preparing a presentation for your products or services.",
+    "paragraph2": "The list that a Secretary can offer is surprisingly diverse. Their responsibilities are not limited to clerical work. They may support assistance with marketing, customer service, bookkeeping, and many other services. Other Secretaries specialize in a specific skill set, and they only perform duties related to those skills. Some specialize in an industry, such as a  secretary whose niche is helping realtors. ",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Howitworks": [
+
+     {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/9.png",
+      "smallImage": "img/portfolio/9.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/8.png",  "smallImage": "img/portfolio/8.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/7.png",  "smallImage": "img/portfolio/7.png"
+    },
+  
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/6.png",  "smallImage": "img/portfolio/6.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/5.png",  "smallImage": "img/portfolio/5.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/4.png",  "smallImage": "img/portfolio/4.png"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/3.png",  "smallImage": "img/portfolio/3.png"
+    },
+     
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/2.png",  "smallImage": "img/portfolio/2.png"
+     
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/1.png",  "smallImage": "img/portfolio/1.png" 
+    
+    }
+
+  ],
+  "Gallery":[
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/1.jpeg",  "smallImage": "img/portfolio/bms/1.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/2.jpeg",  "smallImage": "img/portfolio/bms/2.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/3.jpeg",  "smallImage": "img/portfolio/bms/3.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/4.jpeg",  "smallImage": "img/portfolio/bms/4.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/5.jpeg",  "smallImage": "img/portfolio/bms/5.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/6.jpeg",  "smallImage": "img/portfolio/bms/6.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/7.jpeg",  "smallImage": "img/portfolio/bms/7.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/8.jpeg",  "smallImage": "img/portfolio/bms/8.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/9.jpeg",  "smallImage": "img/portfolio/bms/9.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/10.jpeg",  "smallImage": "img/portfolio/bms/10.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/11.jpeg",  "smallImage": "img/portfolio/bms/11.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/12.jpeg",  "smallImage": "img/portfolio/bms/12.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/13.jpeg",  "smallImage": "img/portfolio/bms/13.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/14.jpeg",  "smallImage": "img/portfolio/bms/14.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/15.jpeg",  "smallImage": "img/portfolio/bms/15.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/16.jpeg",  "smallImage": "img/portfolio/bms/16.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/17.jpeg",  "smallImage": "img/portfolio/bms/17.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/18.jpeg",  "smallImage": "img/portfolio/bms/18.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/19.jpeg",  "smallImage": "img/portfolio/bms/19.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/20.jpeg",  "smallImage": "img/portfolio/bms/20.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/21.jpeg",  "smallImage": "img/portfolio/bms/21.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/22.jpeg",  "smallImage": "img/portfolio/bms/22.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/23.jpeg",  "smallImage": "img/portfolio/bms/23.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/24.jpeg",  "smallImage": "img/portfolio/bms/24.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/25.jpeg",  "smallImage": "img/portfolio/bms/25.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/26.jpeg",  "smallImage": "img/portfolio/bms/26.jpeg" 
+  
+},
+{
+  "title": "Project Title",
+  "largeImage": "img/portfolio/bms/27.jpeg",  "smallImage": "img/portfolio/bms/27.jpeg" 
+  
+}
+
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-pencil",
+      "name": "Secretarial work",
+      "text": "Proffessional and knowledgable secretaries with college degree."
+    },
+    {
+      "icon": "fa fa-headphones",
+      "name": "Telemarketing",
+      "text": "The direct marketing of goods or services to potential customers."
+    },
+    {
+      "icon": "fa fa-usd",
+      "name": "Billing",
+      "text": "Billing Specialists, smart financially and good customer service."
+    },
+    {
+      "icon": "fa fa-shopping-cart",
+      "name": "Marketing and Branding",
+      "text": "Marketing and Branding Info"
+    },
+    {
+      "icon": "fa fa-globe",
+      "name": "Web Design",
+      "text": "Competitive web designers with years of experience."
+    },
+    {
+      "icon": "fa fa-mobile",
+      "name": "Application Development",
+      "text": "Technically-sound App Developers, manages design effort, and good in analyzing relevant information."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "I've been working with Selina for over a year. She is incredibly professional, very punctual. She never misses a beat. I'm very glad to have found her and will continue to be using their VA services. Thank you so much!",
+      "name": "Xander Ford"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "I have begun working with Melissa. Although we are just getting started, she has already been a big help! I think she will be a tremendous asset.",
+      "name": "Mark Enriquez"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "I have never hired a VA before, but can tell you that Sarah has far exceeded my expectations. I am about to launch another business and am planning to increase my hours with Sarah and have her help me with that business also.",
+      "name": "John Geisler"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "Nikki is one of the most trustworthy and reliable people I have ever worked with. If you get a chance to work with her under any context, don’t hesitate.",
+      "name": "Leni Marcos"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "I would def use you guys again, if only my business would pick up so that i had something for you to do! Paula was great….I think the biz card project worked out really well",
+      "name": "Manny Lacson"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "I appreciate everything you have done. Blue is a tremendous asset to your organization and represents you extremely well. Blue is great!",
+      "name": "Franceska Domagoso"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "1376 Lakewood Road, Tom's River NJ 08755",
+    "phone": "212-812-8242",
+    "email": "info@bemysecretary.com"
+
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
